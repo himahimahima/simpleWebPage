@@ -1,0 +1,22 @@
+body{
+	background-image:url("walkingDeadDD.jpg");
+
+}
+h1{
+	font-size:90px;
+	color:white;
+	font-family:"Agency FB";
+	text-align:center;
+}
+div{
+	font-size:40px;
+	font-family:"Agency FB";
+	width: 566px; 
+	height: 550px;
+	background: white;
+	top: 260;
+    left: 130;
+    position: absolute;
+    z-index: 1;
+    visibility: show;
+}

@@ -1,0 +1,17 @@
+body{
+	background-image:url("walkingDeadL.jpg");
+	
+
+}
+h1{
+	font-size:90px;
+	color:black;
+	font-family:"Agency FB";
+	text-align:center;
+}
+
+table{
+	font-size:30px;
+	font-family:"Agency FB";
+	background: white;
+}
